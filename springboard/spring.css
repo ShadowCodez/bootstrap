@@ -1,0 +1,53 @@
+.text-black{
+    color: black;
+}
+
+.border-down {
+    border-bottom: 1px solid #3cf745 !important;
+    border-bottom-width: 3px !important;
+  }
+
+  .bg-image{
+      background-image: url("banner_new.png");
+      background-size: 1370px 500px;
+      /* background-color: rgba(132, 0, 255, 0.5);
+      position: absolute; */
+  }
+
+  .text-cream{
+      color: cornsilk;
+  }
+
+  .bg-cream{
+      background-color: rgb(238, 235, 235);
+  }
+
+  .px-lg-6{
+      padding-left: 8%;
+      padding-right: 8px;
+  }
+
+  .py-lg-6{
+      padding-top: 5%;
+      padding-bottom: 5%;
+  }
+
+  .btn-aqua {
+    color: #fff;
+    background-color: rgb(2, 204, 137);
+    border-color: rgb(2, 204, 137);
+    
+  }
+  .btn-aqua:hover {
+    color: #fff;
+    background-color: rgb(1, 179, 119);
+    border-color: rgb(1, 179, 119);
+  }
+
+ .fs-lg-7{
+     font-size: 80%;
+ }
+
+ .text-gray{
+     color: rgb(117, 116, 116);
+ }

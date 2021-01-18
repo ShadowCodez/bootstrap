@@ -1,0 +1,17 @@
+.header{
+    height: 20px;
+    padding: 10px;
+}
+
+.header , p , a{
+    background-color: black;
+    color: white;
+}
+.header a{
+    float:right;
+    text-decoration: none;  
+    margin-right: 30px;
+    margin-left: 20px;
+}   
+
+
